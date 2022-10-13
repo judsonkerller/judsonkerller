@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Judson Kerller
 
-- 🌱 Estudando React/React Native
+- 🌱 Estudando C#/ASPNET Core
 
 <div>
   <a href="beacons.page/judsonkerller">
