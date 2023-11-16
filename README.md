@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Judson Kerller
 
-- 🌱 Estudando C#/ASPNET Core
-
 <div>
   <a href="beacons.page/judsonkerller">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=judsonkerller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
